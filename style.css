@@ -17,11 +17,11 @@ animation:fadeIn 2s ease;
 }
 
 h1, h2{
-font-size:40px;
+font-size:80px;
 }
 
 p{
-font-size:18px;
+font-size:38px;
 margin:20px 0;
 }
 
@@ -48,7 +48,7 @@ to{opacity:1; transform:translateY(0);}
 
 /* Heart Animation */
 .heart{
-font-size:60px;
+font-size:80px;
 animation:beat 1s infinite;
 }
 
